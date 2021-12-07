@@ -7,7 +7,7 @@ My solutions of advent of code 2021, list of exercises: https://adventofcode.com
 $ python3 pythonFile.py < input.txt
 ```
 
-* Run Python files with an input output file
+* Run Python files with an input and output file
 ```console
 $ python3 pythonFile.py < input.txt > output.txt
 ```
